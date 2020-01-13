@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-12 01:50:24</sys_created_on>
+        <sys_id>dc9420a90792001081b5f0269c1ed053</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_442603_needit_needit.x_442603_needit.needit_user</sys_name>
+        <sys_package display_value="NeedIT" source="x_442603_needit">90b224a50792001081b5f0269c1ed0f4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIT">90b224a50792001081b5f0269c1ed0f4</sys_scope>
+        <sys_security_acl display_value="x_442603_needit_needit">509420a90792001081b5f0269c1ed051</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_dc9420a90792001081b5f0269c1ed053</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-12 01:50:24</sys_updated_on>
+        <sys_user_role display_value="x_442603_needit.needit_user" name="x_442603_needit.needit_user">0c94e0690792001081b5f0269c1ed000</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

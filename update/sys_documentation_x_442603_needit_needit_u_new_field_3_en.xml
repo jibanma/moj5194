@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_new_field_3" label="New Field 3" language="en" table="x_442603_needit_needit">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_new_field_3</element>
+            <help/>
+            <hint/>
+            <label>New Field 3</label>
+            <language>en</language>
+            <name>x_442603_needit_needit</name>
+            <plural>New Field 3s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-12 03:27:19</sys_created_on>
+            <sys_id>90ca78ad07d2001081b5f0269c1ed0af</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>New Field 3</sys_name>
+            <sys_package display_value="NeedIT" source="x_442603_needit">90b224a50792001081b5f0269c1ed0f4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIT">90b224a50792001081b5f0269c1ed0f4</sys_scope>
+            <sys_update_name>sys_documentation_x_442603_needit_needit_u_new_field_3_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-12 03:27:19</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
